@@ -1,9 +1,9 @@
 ---
-title: Sharad Raj
+title: Andante
 layout: about
 profile_pic: "https://www.codingindian.codes/assets/uploads/pro.jpg"
 profile_pic_alt: ""
-short_bio: Hi there this is Sharad, the developer of this theme.
+short_bio: Hi there this is Andante.
 ---
 
 This is long bio.
