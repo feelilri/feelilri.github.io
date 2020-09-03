@@ -1,7 +1,7 @@
 title: ANDANTE
 markdown: kramdown
 url: "https://feelilri.github.io"
-baseurl: "/jekyll-theme-dark-reader"
+baseurl: ""
 remote_theme : mmistakes/minimal-mistakes
 
 # for atom feed
