@@ -39,3 +39,5 @@ defaults:
       permalink: /posts/:categories/:year/:month/:day/:title/
 
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
+theme: jekyll-theme-slate
