@@ -1,7 +1,8 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+title: Blog
+layout: collections_layout
+---
+
+{% for post in site.posts %}
+<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+{%endfor%}
